@@ -1,0 +1,1 @@
+(self.webpackChunkbai3=self.webpackChunkbai3||[]).push([[234],{234:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return c}});var u=t(294),a=t(970);function c(){return u.createElement(a.Z,null,u.createElement("h2",{className:"mb-4"},"Home"))}}}]);
